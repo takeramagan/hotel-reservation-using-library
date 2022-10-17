@@ -3868,10 +3868,10 @@
     "@svgr/plugin-svgo" "^5.5.0"
     loader-utils "^2.0.0"
 
-"@takeramagan/hotel-library@^0.1.4":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@takeramagan/hotel-library/-/hotel-library-0.1.4.tgz#ece1cc7baa751959c3d329d342a6e4717a2f7d71"
-  integrity sha512-U+RZFlWGaBY8rmcpNQ/tjANlqsMNkZhQg8iq5mZM06A/MAM9lwSoAeRqeUmAq8Y34dgNEcsMBQ06WmCvZJwgZw==
+"@takeramagan/hotel-library@^0.1.5":
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/@takeramagan/hotel-library/-/hotel-library-0.1.5.tgz#3e08f3bfa7f4d9b4c51c0120b8084b5d22153b68"
+  integrity sha512-A2mZsQHRArgeGSdfQLeW9a+oyDNhpNnem1Yd+iNjodVCH7+pqR3jh6tPfGdgHreMJzr2X5LQbKrxVxKwf07ypw==
   dependencies:
     "@material/mwc-button" "0.20.0"
     "@material/mwc-checkbox" "0.20.0"

@@ -8,7 +8,7 @@
     "@fontsource/roboto": "^4.5.8",
     "@material-ui/styles": "^4.11.5",
     "@mui/material": "^5.10.8",
-    "@takeramagan/hotel-library": "^0.1.4",
+    "@takeramagan/hotel-library": "^0.1.5",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
